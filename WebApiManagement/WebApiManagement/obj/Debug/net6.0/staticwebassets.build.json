@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "60QbejPpB0QB5FbtPHXsTbWe7WaC7e9ttGu3SXPpQtE=",
+  "Source": "WebApiManagement",
+  "BasePath": "_content/WebApiManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

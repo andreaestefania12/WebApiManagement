@@ -1,0 +1,17 @@
+.admin-submit {
+    background-color: #004aad;
+    padding: 0.4rem 4rem;
+    color: #ffffff;
+    font-size: 0.8rem;
+    outline: none;
+    border: none;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .disabled {
+    background-color: rgba(0, 74, 173, 0.5);
+    cursor: not-allowed;
+  }
